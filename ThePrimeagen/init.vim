@@ -56,10 +56,14 @@ Plug 'nvim-telescope/telescope-fzy-native.nvim'
 
 Plug 'flazz/vim-colorschemes'
 Plug 'chriskempson/base16-vim'
-
 " HARPOON!!
 Plug '/home/mpaulson/personal/rfc-reader'
 Plug 'mhinz/vim-rfc'
+
+"ThePrimeagen plugins
+Plug 'ThePrimeagen/harpoon'
+Plug 'ThePrimeagen/vim-with-me'
+Plug 'ThePrimeagen/git-worktree.nvim'
 
 " prettier
 Plug 'sbdchd/neoformat'
